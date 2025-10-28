@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @karanj
-- 👀 I’m interested in money stuff and climate tech
-- 🌱 I’m currently on parental leave
-- 💞️ I’m looking to collaborate on interesting things
-- 📫 How to reach me ... https://bitstories.net/ / mastodon: @karanj@mastodon.social
+- 👀 I’m interested in money stuff, and how we solve climate change
+- 🌱 I’m currently looking for a new full-time role
+- 💞️ I’m looking to collaborate on startups in Climate, payments or FX domain
+- 📫 How to reach me ... mastodon: @karanj@mastodon.social | bluesky: @karanj.bsky.social | email: karanj at the google email domain
 
 <!---
 karanj/karanj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
